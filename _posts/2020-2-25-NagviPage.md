@@ -13,7 +13,7 @@ keywords: nav
 
 # 个人
 - [Github](http://github.com/tunging)
-- [Blog](http://tunging.github.com)
+- [Blog](http://tunging.github.io)
 
 # 收藏
 - [百度脑图](https://naotu.baidu.com/home)
