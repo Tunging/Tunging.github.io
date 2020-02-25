@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Nav
-categories: [cate1, cate2]
+categories: [Favourite]
 description: some website common
-keywords: nav, website
+keywords: nav
 ---
 
-#工作
+# 工作
 
 - [Portal](http://zhukaixy.com/)
 - [Portal](http://zhukaixy.com/)
