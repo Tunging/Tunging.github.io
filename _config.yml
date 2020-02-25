@@ -87,7 +87,7 @@ repository: mzlogin/mzlogin.github.io
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+comments_provider: gitment
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
@@ -95,11 +95,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: Tunging
+    repo: tunging
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 0663db58b8c3287a32d7
+        client_secret: cd02edfbd9a1d2756cd59df3d465099ce76e1fd4
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mzlogin
