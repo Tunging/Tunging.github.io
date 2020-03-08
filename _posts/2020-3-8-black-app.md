@@ -17,8 +17,7 @@ keywords: 黑苹果
 |显卡|Nvidia Gefore 1060 6G|  
 |内存|8G|  
 |硬盘|三星256G ssd|  
-|gpu|intel i5| 
----  
+|gpu|intel i5|
 
 - ## 问题 
 因为这个显卡，需要用webdriver驱动，但是webdriver最高支持1060的mac系统只到10.13，所以这次就选择安装10.13系统
