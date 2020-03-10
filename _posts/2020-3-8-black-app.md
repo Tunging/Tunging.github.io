@@ -27,12 +27,12 @@ keywords: 黑苹果
 链接: https://pan.baidu.com/s/17zH999JZxJ30NS5gB2XPxA 提取码: mkkq 
 
 #### 网站下载 
-xxx
+[宝藏网站](https://www.misonsky.cn/361.html)
 - ## 工具下载
 #### transMac 
-xxx 
+[下载地址](http://www.misonsky.cn/storge/?/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/TransMac.exe)
 #### balenaEtcher
-xxx
+[下载地址](https://www.misonsky.cn/storge/?/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/balenaEtcher-Portable-1.5.58.exe)
 
 - ## 安装U盘制作
 推荐用网站下载的镜像来制作u盘，镜像附带pe系统，懒人版的就是省事  
